@@ -7,3 +7,4 @@ Lambar gaban-ƙarshen gidan yanar gizon buɗaɗɗe ne, maraba don taimakawa haɓ
 * [lambar gaban-karshen](https://github.com/xxai-art/web)
 * [Fakitin harshe don rukunin yanar gizon gaba ɗaya](https://github.com/xxai-art/web/tree/main/i18n)
 * [Fakitin harshe don tsarin shiga](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Takardun Harsuna da yawa na Yanar Gizo](https://github.com/xxai-doc)
