@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ƙara wasu siffofi akan tushen rubutun rubutun kofi, duba [kofi_plus](./coffee_plus.md) .
 
-* bayyana m
+## bayyana m
 
 ```
 + var1, var2
 ```
 
-* lakabin shela
+## lakabin shela
 
 `:$` don amfani da [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* shigo da sauri
+## shigo da sauri
 
 ```
 > zx/globals:
