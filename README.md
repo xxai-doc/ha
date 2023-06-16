@@ -17,14 +17,14 @@ Harshen shirye-shiryen gaba-gaba shine [@w5/coffee_plus](http://npmjs.com/@w5/co
 
 Gina akan ayyuka 3 masu zuwa
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Samfurin alamar alama, tare da suffix `.mdt` , na iya komawa zuwa fayilolin waje tare da daidaitawa mai kama da `<+ ./coffee_plus/import.js>` .
+  Ƙaƙwalwar ita ce `.mdt` , za ku iya amfani da tsarin daidaitawa mai kama da `<+ ./coffee_plus/import.js>` don komawa zuwa fayilolin waje, da kuma samar da alamar alama tare da suffix `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Fassarar Markdown ba za ta fassara lambobi da hanyoyin haɗin gwiwa ba, kuma za ta adana jumlolin da aka fassara. Idan an canza fassarar amma ba a gyara ainihin rubutun ba, sake aiwatar da shi ba zai sake rubuta canjin fassarar ba.
+  Fassarar Markdown ba za ta fassara lambobi da hanyoyin haɗin gwiwa ba, kuma za ta adana jumlolin da aka fassara. Idan an canza fassarar amma ba a gyara ainihin rubutun ba, sake aiwatar da shi ba zai sake rubuta canjin fassarar ba.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Fayilolin harshe don fassarar `yaml` da aka samar da gidajen yanar gizo.
+  Fayilolin harshe don fassarar `yaml` da aka samar da gidajen yanar gizo.
